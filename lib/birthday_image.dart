@@ -36,9 +36,12 @@ class CardWidget extends StatelessWidget {
             fontWeight: FontWeight.bold,
           ),
         ),
-        Text(
-          'From Emma',
-          style: TextStyle(fontSize: 30),
+        Padding(
+          padding: EdgeInsets.all(16.0),
+          child: Text(
+            'From Emma',
+            style: TextStyle(fontSize: 30),
+          ),
         )
       ],
     );
