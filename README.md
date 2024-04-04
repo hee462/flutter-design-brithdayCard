@@ -1,9 +1,9 @@
 # first_flutter_app
 
-생일카드 만들기
-ver1 ) 멘트 중앙 정렬
-ver2) 백그라운드에 image 사용 및 카드생성
-ver3) lottie 사용하여 json 파일 백그라운드 넣고 카드 생성
+생일카드 만들기 <br>
+ver1 ) 멘트 중앙 정렬 <br>
+ver2) 백그라운드에 image 사용 및 카드생성 <br>
+ver3) lottie 사용하여 json 파일 백그라운드 넣고 카드 생성 <br>
 
 ## SNS프로필 ui 따라하기
 
