@@ -1,16 +1,11 @@
 # first_flutter_app
 
-A new Flutter project.
+생일카드 만들기
+ver1 ) 멘트 중앙 정렬
+ver2) 백그라운드에 image 사용 및 카드생성
+ver3) lottie 사용하여 json 파일 백그라운드 넣고 카드 생성
 
-## Getting Started
+## SNS프로필 ui 따라하기
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 아래 화면 레이아웃으로 따라 하기 <br>
+<img width="238" alt="스크린샷 2024-04-04 오후 3 01 12" src="https://github.com/hee462/flutter-design-brithdayCard/assets/130423866/efe5d4e9-cc79-481d-9933-ff735dfd908d">
